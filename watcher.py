@@ -143,6 +143,16 @@ def show_key(s):
     return f'{s["date"]}|{s["start"]}|{s["screen"]}|{s["movie"]}'
 
 def main():
+    raw = {}
+    for date in DATES:
+        try:
+            raw[date] = fetch(date)
+        except Exception as e:
+            raw[date] = {"ERROR": str(e)}
+
+    Path("raw_response.json").write_text(
+        json.dumps(raw, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
     state = load_state()
     old = state.get("shows", {})
     current = {}
