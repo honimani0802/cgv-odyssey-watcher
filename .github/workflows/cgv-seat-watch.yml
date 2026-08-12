@@ -1,1 +1,78 @@
-.github/workflows/cgv-seat-watch.yml
+name: CGV Odyssey Seat Watcher
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: cgv-odyssey-watcher
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install requests
+        run: pip install -r requirements.txt
+
+      - name: Check CGV seats
+        id: check
+        run: python watcher.py
+
+      - name: Commit state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json result.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update CGV seat state"
+            git push
+          fi
+
+      - name: Create alert issue
+        if: steps.check.outputs.alert_count != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import json
+          import subprocess
+
+          with open("result.json", encoding="utf-8") as f:
+              d = json.load(f)
+
+          lines = [
+              "CGV 용산아이파크몰 IMAX 《오디세이》 취소표가 감지되었습니다.",
+              ""
+          ]
+
+          for a in d["alerts"]:
+              date = a["date"]
+              lines.append(
+                  f'- {date[:4]}-{date[4:6]}-{date[6:]} '
+                  f'{a["start"]} / {a["screen"]} / '
+                  f'잔여 {a["remaining"]}석'
+              )
+
+          lines += ["", "CGV 앱에서 즉시 좌석을 확인하세요."]
+
+          subprocess.run([
+              "gh", "issue", "create",
+              "--title", "[CGV 취소표] 오디세이 용산 IMAX 좌석 감지",
+              "--body", "\n".join(lines)
+          ], check=True)
+          PY
