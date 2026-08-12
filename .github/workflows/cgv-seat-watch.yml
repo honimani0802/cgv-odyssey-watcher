@@ -24,7 +24,45 @@ jobs:
 
       - id: check
         run: python watcher.py
+      - name: Create seat alert issue
+        if: steps.check.outputs.alert_count != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import json
+          import subprocess
 
+          with open("result.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          for a in data.get("alerts", []):
+              prev = a.get("previous_remaining")
+              curr = a.get("remaining")
+
+              if prev is None or curr is None or curr <= prev:
+                  continue
+
+              increase = curr - prev
+              date = a.get("date", "")
+              date_fmt = f"{date[4:6]}/{date[6:8]}" if len(date) == 8 else date
+              start = a.get("start", "")
+
+              title = f"[CGV 취소표] {date_fmt} {start} 오디세이 IMAX +{increase}석"
+
+              body = (
+                  f"CGV 용산아이파크몰 IMAX 《오디세이》 취소표가 감지되었습니다.\n\n"
+                  f"- 날짜: {date_fmt}\n"
+                  f"- 시간: {start}\n"
+                  f"- 잔여석: {prev} → {curr}석 (+{increase})\n\n"
+                  f"CGV 앱에서 즉시 좌석을 확인하세요."
+              )
+
+              subprocess.run(
+                  ["gh", "issue", "create", "--title", title, "--body", body],
+                  check=True
+              )
+          PY
       - name: Save state
         run: |
           git config user.name "github-actions[bot]"
