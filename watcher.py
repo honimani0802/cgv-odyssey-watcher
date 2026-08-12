@@ -54,65 +54,37 @@ def first(d, *keys):
     return None
 
 def candidate_showtimes(payload, date):
-    seen = set()
     items = []
-    for d in walk_dicts(payload):
-        blob = " ".join(norm(v) for v in d.values() if isinstance(v, (str, int, float)))
-        blob_u = blob.upper()
 
-        if not any(k.upper() in blob_u for k in MOVIE_KEYWORDS):
-            continue
-        if not any(k.upper() in blob_u for k in FORMAT_KEYWORDS):
-            continue
-        if "용산" not in blob:
-            continue
+    timetable = (
+        payload.get("data", {}).get("timetable", [])
+        if isinstance(payload, dict)
+        else []
+    )
 
-        movie = first(d, "movieName", "movieNm", "movieTitle", "title", "movie_name")
-        theater = first(d, "theaterName", "theaterNm", "siteName", "cinemaName", "theater_name")
-        screen = first(d, "screenName", "screenNm", "screenType", "hallName", "screen_name", "playType")
-        start = first(d, "startTime", "playStartTime", "startTm", "start_time", "playTime")
-        end = first(d, "endTime", "playEndTime", "endTm", "end_time")
-        remaining = first(
-            d, "remainingSeats", "remainSeats", "remainSeat", "availableSeats",
-            "seatRemain", "remainCount", "remainCnt", "restSeatCnt", "leftSeatCount"
-        )
-        total = first(d, "totalSeats", "totalSeat", "seatCount", "totalCnt", "totalSeatCount")
-
-        remaining_i = as_int(remaining)
-        total_i = as_int(total)
-
-        # Some CGV responses put seat text in a generic label/value.
-        if remaining_i is None:
-            m = re.search(r"(?:잔여|남은|remaining|remain)[^\d]{0,10}(\d+)", blob, re.I)
-            if m:
-                remaining_i = int(m.group(1))
-
-        # Need at least a recognizable time to avoid matching parent metadata objects.
-        start_s = norm(start)
-        if not re.search(r"\d{1,2}:\d{2}|\d{4}", start_s):
-            m = re.search(r"\b([01]?\d|2[0-3]):[0-5]\d\b", blob)
-            if m:
-                start_s = m.group(0)
-
-        if not start_s:
+    for s in timetable:
+        if s.get("movieName") != "오디세이":
             continue
 
-        key = (date, start_s, norm(screen), norm(movie), remaining_i)
-        if key in seen:
+        total = s.get("totalSeats")
+        remaining = s.get("remainingSeats")
+
+        # 용산 IMAX관: 약 624석
+        if not isinstance(total, int) or total < 600:
             continue
-        seen.add(key)
 
         items.append({
             "date": date,
-            "movie": norm(movie) or "오디세이",
-            "theater": norm(theater) or THEATER_KEYWORD,
-            "screen": norm(screen) or "IMAX",
-            "start": start_s,
-            "end": norm(end),
-            "remaining": remaining_i,
-            "total": total_i,
-            "raw_hint": blob[:240],
+            "movie": s.get("movieName"),
+            "theater": s.get("theaterName"),
+            "screen": "IMAX",
+            "start": s.get("startTime"),
+            "end": s.get("endTime"),
+            "remaining": remaining,
+            "total": total,
+            "scheduleId": s.get("scheduleId"),
         })
+
     return items
 
 def fetch(date):
