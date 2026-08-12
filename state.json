@@ -1,3 +1,301 @@
 {
-  "shows": {}
+  "shows": {
+    "20260814|07:30|IMAX|오디세이": {
+      "date": "20260814",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "07:30",
+      "end": "10:32",
+      "remaining": 6,
+      "total": 624,
+      "scheduleId": "2026081400131"
+    },
+    "20260814|11:00|IMAX|오디세이": {
+      "date": "20260814",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "11:00",
+      "end": "14:02",
+      "remaining": 4,
+      "total": 624,
+      "scheduleId": "2026081400132"
+    },
+    "20260815|07:30|IMAX|오디세이": {
+      "date": "20260815",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "07:30",
+      "end": "10:32",
+      "remaining": 4,
+      "total": 624,
+      "scheduleId": "2026081500131"
+    },
+    "20260815|11:00|IMAX|오디세이": {
+      "date": "20260815",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "11:00",
+      "end": "14:02",
+      "remaining": 0,
+      "total": 624,
+      "scheduleId": "2026081500132"
+    },
+    "20260815|14:30|IMAX|오디세이": {
+      "date": "20260815",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "14:30",
+      "end": "17:32",
+      "remaining": 1,
+      "total": 624,
+      "scheduleId": "2026081500133"
+    },
+    "20260815|18:00|IMAX|오디세이": {
+      "date": "20260815",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "18:00",
+      "end": "21:02",
+      "remaining": 1,
+      "total": 624,
+      "scheduleId": "2026081500134"
+    },
+    "20260816|07:30|IMAX|오디세이": {
+      "date": "20260816",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "07:30",
+      "end": "10:32",
+      "remaining": 4,
+      "total": 624,
+      "scheduleId": "2026081600131"
+    },
+    "20260816|11:00|IMAX|오디세이": {
+      "date": "20260816",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "11:00",
+      "end": "14:02",
+      "remaining": 1,
+      "total": 624,
+      "scheduleId": "2026081600132"
+    },
+    "20260816|14:30|IMAX|오디세이": {
+      "date": "20260816",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "14:30",
+      "end": "17:32",
+      "remaining": 1,
+      "total": 624,
+      "scheduleId": "2026081600133"
+    },
+    "20260816|18:00|IMAX|오디세이": {
+      "date": "20260816",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "18:00",
+      "end": "21:02",
+      "remaining": 2,
+      "total": 624,
+      "scheduleId": "2026081600134"
+    },
+    "20260817|06:30|IMAX|오디세이": {
+      "date": "20260817",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "06:30",
+      "end": "09:32",
+      "remaining": 6,
+      "total": 624,
+      "scheduleId": "2026081700131"
+    },
+    "20260817|10:00|IMAX|오디세이": {
+      "date": "20260817",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "10:00",
+      "end": "13:02",
+      "remaining": 3,
+      "total": 624,
+      "scheduleId": "2026081700132"
+    },
+    "20260817|13:30|IMAX|오디세이": {
+      "date": "20260817",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "13:30",
+      "end": "16:32",
+      "remaining": 1,
+      "total": 624,
+      "scheduleId": "2026081700133"
+    },
+    "20260817|17:00|IMAX|오디세이": {
+      "date": "20260817",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "17:00",
+      "end": "20:02",
+      "remaining": 0,
+      "total": 624,
+      "scheduleId": "2026081700134"
+    },
+    "20260817|20:30|IMAX|오디세이": {
+      "date": "20260817",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "20:30",
+      "end": "23:32",
+      "remaining": 3,
+      "total": 624,
+      "scheduleId": "2026081700135"
+    },
+    "20260822|07:00|IMAX|오디세이": {
+      "date": "20260822",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "07:00",
+      "end": "10:02",
+      "remaining": 6,
+      "total": 624,
+      "scheduleId": "2026082200131"
+    },
+    "20260822|10:30|IMAX|오디세이": {
+      "date": "20260822",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "10:30",
+      "end": "13:32",
+      "remaining": 6,
+      "total": 624,
+      "scheduleId": "2026082200132"
+    },
+    "20260822|14:00|IMAX|오디세이": {
+      "date": "20260822",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "14:00",
+      "end": "17:02",
+      "remaining": 5,
+      "total": 624,
+      "scheduleId": "2026082200133"
+    },
+    "20260822|17:30|IMAX|오디세이": {
+      "date": "20260822",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "17:30",
+      "end": "20:32",
+      "remaining": 6,
+      "total": 624,
+      "scheduleId": "2026082200134"
+    },
+    "20260822|21:00|IMAX|오디세이": {
+      "date": "20260822",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "21:00",
+      "end": "24:02",
+      "remaining": 6,
+      "total": 624,
+      "scheduleId": "2026082200135"
+    },
+    "20260822|24:30|IMAX|오디세이": {
+      "date": "20260822",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "24:30",
+      "end": "27:32",
+      "remaining": 6,
+      "total": 624,
+      "scheduleId": "2026082200136"
+    },
+    "20260823|07:00|IMAX|오디세이": {
+      "date": "20260823",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "07:00",
+      "end": "10:02",
+      "remaining": 6,
+      "total": 624,
+      "scheduleId": "2026082300131"
+    },
+    "20260823|10:30|IMAX|오디세이": {
+      "date": "20260823",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "10:30",
+      "end": "13:32",
+      "remaining": 6,
+      "total": 624,
+      "scheduleId": "2026082300132"
+    },
+    "20260823|14:00|IMAX|오디세이": {
+      "date": "20260823",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "14:00",
+      "end": "17:02",
+      "remaining": 5,
+      "total": 624,
+      "scheduleId": "2026082300133"
+    },
+    "20260823|17:30|IMAX|오디세이": {
+      "date": "20260823",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "17:30",
+      "end": "20:32",
+      "remaining": 4,
+      "total": 624,
+      "scheduleId": "2026082300134"
+    },
+    "20260823|21:00|IMAX|오디세이": {
+      "date": "20260823",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "21:00",
+      "end": "24:02",
+      "remaining": 6,
+      "total": 624,
+      "scheduleId": "2026082300135"
+    },
+    "20260823|24:30|IMAX|오디세이": {
+      "date": "20260823",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "24:30",
+      "end": "27:32",
+      "remaining": 6,
+      "total": 624,
+      "scheduleId": "2026082300136"
+    }
+  }
 }
