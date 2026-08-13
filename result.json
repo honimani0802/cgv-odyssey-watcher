@@ -1,29 +1,16 @@
 {
   "alerts": [
     {
-      "date": "20260815",
-      "movie": "오디세이",
-      "theater": "CGV 용산아이파크몰",
-      "screen": "IMAX",
-      "start": "07:30",
-      "end": "10:32",
-      "remaining": 4,
-      "total": 624,
-      "scheduleId": "2026081500131",
-      "previous_remaining": 3,
-      "reason": "예매 가능한 좌석 감지"
-    },
-    {
-      "date": "20260815",
+      "date": "20260814",
       "movie": "오디세이",
       "theater": "CGV 용산아이파크몰",
       "screen": "IMAX",
       "start": "11:00",
       "end": "14:02",
-      "remaining": 1,
+      "remaining": 3,
       "total": 624,
-      "scheduleId": "2026081500132",
-      "previous_remaining": 0,
+      "scheduleId": "2026081400132",
+      "previous_remaining": 2,
       "reason": "예매 가능한 좌석 감지"
     },
     {
@@ -31,12 +18,12 @@
       "movie": "오디세이",
       "theater": "CGV 용산아이파크몰",
       "screen": "IMAX",
-      "start": "17:30",
-      "end": "20:32",
+      "start": "14:00",
+      "end": "17:02",
       "remaining": 6,
       "total": 624,
-      "scheduleId": "2026082200134",
-      "previous_remaining": 5,
+      "scheduleId": "2026082200133",
+      "previous_remaining": 4,
       "reason": "예매 가능한 좌석 감지"
     }
   ],
@@ -48,7 +35,7 @@
       "screen": "IMAX",
       "start": "07:30",
       "end": "10:32",
-      "remaining": 6,
+      "remaining": 5,
       "total": 624,
       "scheduleId": "2026081400131"
     },
@@ -59,7 +46,7 @@
       "screen": "IMAX",
       "start": "11:00",
       "end": "14:02",
-      "remaining": 2,
+      "remaining": 3,
       "total": 624,
       "scheduleId": "2026081400132"
     },
@@ -81,7 +68,7 @@
       "screen": "IMAX",
       "start": "11:00",
       "end": "14:02",
-      "remaining": 1,
+      "remaining": 0,
       "total": 624,
       "scheduleId": "2026081500132"
     },
@@ -119,24 +106,13 @@
       "scheduleId": "2026081600132"
     },
     {
-      "date": "20260816",
-      "movie": "오디세이",
-      "theater": "CGV 용산아이파크몰",
-      "screen": "IMAX",
-      "start": "14:30",
-      "end": "17:32",
-      "remaining": 1,
-      "total": 624,
-      "scheduleId": "2026081600133"
-    },
-    {
       "date": "20260817",
       "movie": "오디세이",
       "theater": "CGV 용산아이파크몰",
       "screen": "IMAX",
       "start": "06:30",
       "end": "09:32",
-      "remaining": 6,
+      "remaining": 5,
       "total": 624,
       "scheduleId": "2026081700131"
     },
@@ -161,28 +137,6 @@
       "remaining": 1,
       "total": 624,
       "scheduleId": "2026081700133"
-    },
-    {
-      "date": "20260817",
-      "movie": "오디세이",
-      "theater": "CGV 용산아이파크몰",
-      "screen": "IMAX",
-      "start": "17:00",
-      "end": "20:02",
-      "remaining": 2,
-      "total": 624,
-      "scheduleId": "2026081700134"
-    },
-    {
-      "date": "20260817",
-      "movie": "오디세이",
-      "theater": "CGV 용산아이파크몰",
-      "screen": "IMAX",
-      "start": "20:30",
-      "end": "23:32",
-      "remaining": 6,
-      "total": 624,
-      "scheduleId": "2026081700135"
     },
     {
       "date": "20260822",
@@ -213,7 +167,7 @@
       "screen": "IMAX",
       "start": "14:00",
       "end": "17:02",
-      "remaining": 4,
+      "remaining": 6,
       "total": 624,
       "scheduleId": "2026082200133"
     },
@@ -235,7 +189,7 @@
       "screen": "IMAX",
       "start": "21:00",
       "end": "24:02",
-      "remaining": 6,
+      "remaining": 4,
       "total": 624,
       "scheduleId": "2026082200135"
     },
