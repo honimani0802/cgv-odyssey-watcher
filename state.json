@@ -18,7 +18,7 @@
       "screen": "IMAX",
       "start": "11:00",
       "end": "14:02",
-      "remaining": 3,
+      "remaining": 2,
       "total": 624,
       "scheduleId": "2026081400132"
     },
@@ -29,7 +29,7 @@
       "screen": "IMAX",
       "start": "07:30",
       "end": "10:32",
-      "remaining": 3,
+      "remaining": 4,
       "total": 624,
       "scheduleId": "2026081500131"
     },
@@ -40,7 +40,7 @@
       "screen": "IMAX",
       "start": "11:00",
       "end": "14:02",
-      "remaining": 0,
+      "remaining": 1,
       "total": 624,
       "scheduleId": "2026081500132"
     },
@@ -51,7 +51,7 @@
       "screen": "IMAX",
       "start": "14:30",
       "end": "17:32",
-      "remaining": 1,
+      "remaining": 0,
       "total": 624,
       "scheduleId": "2026081500133"
     },
@@ -194,7 +194,7 @@
       "screen": "IMAX",
       "start": "14:00",
       "end": "17:02",
-      "remaining": 6,
+      "remaining": 4,
       "total": 624,
       "scheduleId": "2026082200133"
     },
@@ -205,7 +205,7 @@
       "screen": "IMAX",
       "start": "17:30",
       "end": "20:32",
-      "remaining": 5,
+      "remaining": 6,
       "total": 624,
       "scheduleId": "2026082200134"
     },
