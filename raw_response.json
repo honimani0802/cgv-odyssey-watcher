@@ -651,18 +651,6 @@
       "filterRelaxed": false,
       "timetable": [
         {
-          "scheduleId": "2026081500136",
-          "movieCode": "30001323",
-          "movieName": "오디세이",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260815",
-          "startTime": "24:30",
-          "endTime": "27:32",
-          "totalSeats": 190,
-          "remainingSeats": 104
-        },
-        {
           "scheduleId": "2026081500137",
           "movieCode": "30001323",
           "movieName": "오디세이",
@@ -672,7 +660,7 @@
           "startTime": "24:50",
           "endTime": "27:52",
           "totalSeats": 142,
-          "remainingSeats": 108
+          "remainingSeats": 107
         },
         {
           "scheduleId": "2026081500136",
@@ -684,7 +672,7 @@
           "startTime": "25:00",
           "endTime": "28:02",
           "totalSeats": 624,
-          "remainingSeats": 5
+          "remainingSeats": 2
         },
         {
           "scheduleId": "2026081500139",
@@ -696,7 +684,7 @@
           "startTime": "25:25",
           "endTime": "27:16",
           "totalSeats": 134,
-          "remainingSeats": 125
+          "remainingSeats": 122
         },
         {
           "scheduleId": "2026081500137",
@@ -708,7 +696,7 @@
           "startTime": "25:30",
           "endTime": "28:05",
           "totalSeats": 184,
-          "remainingSeats": 112
+          "remainingSeats": 110
         },
         {
           "scheduleId": "2026081500137",
@@ -720,7 +708,7 @@
           "startTime": "25:30",
           "endTime": "28:32",
           "totalSeats": 223,
-          "remainingSeats": 190
+          "remainingSeats": 191
         },
         {
           "scheduleId": "2026081500137",
@@ -732,7 +720,7 @@
           "startTime": "26:00",
           "endTime": "28:35",
           "totalSeats": 200,
-          "remainingSeats": 8
+          "remainingSeats": 15
         },
         {
           "scheduleId": "2026081500136",
@@ -744,7 +732,7 @@
           "startTime": "26:00",
           "endTime": "29:02",
           "totalSeats": 201,
-          "remainingSeats": 186
+          "remainingSeats": 184
         },
         {
           "scheduleId": "2026081500138",
@@ -756,7 +744,7 @@
           "startTime": "26:00",
           "endTime": "27:58",
           "totalSeats": 194,
-          "remainingSeats": 178
+          "remainingSeats": 179
         },
         {
           "scheduleId": "2026081500137",
@@ -768,7 +756,7 @@
           "startTime": "26:20",
           "endTime": "29:22",
           "totalSeats": 144,
-          "remainingSeats": 6
+          "remainingSeats": 4
         },
         {
           "scheduleId": "2026081500137",
@@ -785,7 +773,7 @@
       ]
     },
     "meta": {
-      "total": 11,
+      "total": 10,
       "pageSize": 50
     }
   },
@@ -833,7 +821,7 @@
           "startTime": "06:30",
           "endTime": "08:28",
           "totalSeats": 115,
-          "remainingSeats": 112
+          "remainingSeats": 110
         },
         {
           "scheduleId": "2026081600131",
@@ -857,7 +845,7 @@
           "startTime": "07:00",
           "endTime": "08:59",
           "totalSeats": 190,
-          "remainingSeats": 160
+          "remainingSeats": 164
         },
         {
           "scheduleId": "2026081600131",
@@ -869,7 +857,7 @@
           "startTime": "07:00",
           "endTime": "08:51",
           "totalSeats": 134,
-          "remainingSeats": 108
+          "remainingSeats": 109
         },
         {
           "scheduleId": "2026081600131",
@@ -893,7 +881,7 @@
           "startTime": "07:10",
           "endTime": "10:12",
           "totalSeats": 223,
-          "remainingSeats": 29
+          "remainingSeats": 28
         },
         {
           "scheduleId": "2026081600131",
@@ -905,7 +893,7 @@
           "startTime": "07:30",
           "endTime": "10:05",
           "totalSeats": 184,
-          "remainingSeats": 38
+          "remainingSeats": 47
         },
         {
           "scheduleId": "2026081600131",
@@ -953,7 +941,7 @@
           "startTime": "07:50",
           "endTime": "10:36",
           "totalSeats": 126,
-          "remainingSeats": 39
+          "remainingSeats": 34
         },
         {
           "scheduleId": "2026081600131",
@@ -965,7 +953,7 @@
           "startTime": "08:00",
           "endTime": "10:35",
           "totalSeats": 200,
-          "remainingSeats": 4
+          "remainingSeats": 5
         },
         {
           "scheduleId": "2026081600131",
@@ -989,7 +977,7 @@
           "startTime": "08:30",
           "endTime": "11:05",
           "totalSeats": 194,
-          "remainingSeats": 15
+          "remainingSeats": 16
         },
         {
           "scheduleId": "2026081600131",
@@ -1001,7 +989,7 @@
           "startTime": "08:30",
           "endTime": "11:32",
           "totalSeats": 289,
-          "remainingSeats": 11
+          "remainingSeats": 12
         },
         {
           "scheduleId": "2026081600131",
@@ -1025,7 +1013,7 @@
           "startTime": "08:55",
           "endTime": "11:30",
           "totalSeats": 115,
-          "remainingSeats": 4
+          "remainingSeats": 6
         },
         {
           "scheduleId": "2026081600132",
@@ -1049,7 +1037,7 @@
           "startTime": "09:20",
           "endTime": "11:19",
           "totalSeats": 190,
-          "remainingSeats": 118
+          "remainingSeats": 120
         },
         {
           "scheduleId": "2026081600131",
@@ -1061,7 +1049,7 @@
           "startTime": "09:20",
           "endTime": "12:22",
           "totalSeats": 201,
-          "remainingSeats": 6
+          "remainingSeats": 5
         },
         {
           "scheduleId": "2026081600132",
@@ -1085,7 +1073,7 @@
           "startTime": "10:00",
           "endTime": "13:02",
           "totalSeats": 204,
-          "remainingSeats": 4
+          "remainingSeats": 6
         },
         {
           "scheduleId": "2026081600132",
@@ -1121,7 +1109,7 @@
           "startTime": "10:10",
           "endTime": "12:45",
           "totalSeats": 144,
-          "remainingSeats": 2
+          "remainingSeats": 3
         },
         {
           "scheduleId": "2026081600132",
@@ -1133,7 +1121,7 @@
           "startTime": "10:30",
           "endTime": "13:05",
           "totalSeats": 184,
-          "remainingSeats": 5
+          "remainingSeats": 4
         },
         {
           "scheduleId": "2026081600132",
@@ -1169,7 +1157,7 @@
           "startTime": "11:00",
           "endTime": "13:35",
           "totalSeats": 200,
-          "remainingSeats": 0
+          "remainingSeats": 1
         },
         {
           "scheduleId": "2026081600132",
@@ -1193,7 +1181,7 @@
           "startTime": "11:00",
           "endTime": "14:02",
           "totalSeats": 624,
-          "remainingSeats": 0
+          "remainingSeats": 1
         },
         {
           "scheduleId": "2026081600133",
@@ -1217,7 +1205,7 @@
           "startTime": "11:30",
           "endTime": "14:05",
           "totalSeats": 194,
-          "remainingSeats": 3
+          "remainingSeats": 2
         },
         {
           "scheduleId": "2026081600132",
@@ -1229,7 +1217,7 @@
           "startTime": "11:30",
           "endTime": "14:32",
           "totalSeats": 214,
-          "remainingSeats": 5
+          "remainingSeats": 6
         },
         {
           "scheduleId": "2026081600133",
@@ -1241,7 +1229,7 @@
           "startTime": "11:40",
           "endTime": "13:39",
           "totalSeats": 190,
-          "remainingSeats": 28
+          "remainingSeats": 30
         },
         {
           "scheduleId": "2026081600133",
@@ -1325,7 +1313,7 @@
           "startTime": "13:00",
           "endTime": "14:55",
           "totalSeats": 126,
-          "remainingSeats": 20
+          "remainingSeats": 18
         },
         {
           "scheduleId": "2026081600133",
@@ -1373,7 +1361,7 @@
           "startTime": "13:30",
           "endTime": "16:05",
           "totalSeats": 184,
-          "remainingSeats": 1
+          "remainingSeats": 0
         },
         {
           "scheduleId": "2026081600134",
@@ -1409,7 +1397,7 @@
           "startTime": "14:00",
           "endTime": "15:59",
           "totalSeats": 190,
-          "remainingSeats": 20
+          "remainingSeats": 22
         }
       ]
     },
@@ -1474,7 +1462,7 @@
           "startTime": "06:30",
           "endTime": "09:32",
           "totalSeats": 624,
-          "remainingSeats": 4
+          "remainingSeats": 3
         },
         {
           "scheduleId": "2026081700131",
@@ -1486,7 +1474,7 @@
           "startTime": "07:00",
           "endTime": "09:35",
           "totalSeats": 200,
-          "remainingSeats": 7
+          "remainingSeats": 6
         },
         {
           "scheduleId": "2026081700131",
@@ -1534,7 +1522,7 @@
           "startTime": "07:30",
           "endTime": "10:32",
           "totalSeats": 204,
-          "remainingSeats": 37
+          "remainingSeats": 39
         },
         {
           "scheduleId": "2026081700131",
@@ -1570,7 +1558,7 @@
           "startTime": "07:50",
           "endTime": "10:52",
           "totalSeats": 144,
-          "remainingSeats": 5
+          "remainingSeats": 4
         },
         {
           "scheduleId": "2026081700131",
@@ -1618,7 +1606,7 @@
           "startTime": "08:15",
           "endTime": "11:01",
           "totalSeats": 126,
-          "remainingSeats": 78
+          "remainingSeats": 80
         },
         {
           "scheduleId": "2026081700131",
@@ -1822,7 +1810,7 @@
           "startTime": "11:20",
           "endTime": "13:55",
           "totalSeats": 144,
-          "remainingSeats": 4
+          "remainingSeats": 2
         },
         {
           "scheduleId": "2026081700132",
@@ -1954,7 +1942,7 @@
           "startTime": "12:50",
           "endTime": "15:52",
           "totalSeats": 201,
-          "remainingSeats": 14
+          "remainingSeats": 12
         },
         {
           "scheduleId": "2026081700133",
@@ -1990,7 +1978,7 @@
           "startTime": "13:30",
           "endTime": "16:32",
           "totalSeats": 624,
-          "remainingSeats": 0
+          "remainingSeats": 1
         },
         {
           "scheduleId": "2026081700133",
@@ -2002,7 +1990,7 @@
           "startTime": "13:40",
           "endTime": "15:18",
           "totalSeats": 126,
-          "remainingSeats": 9
+          "remainingSeats": 13
         },
         {
           "scheduleId": "2026081700133",
@@ -2187,7 +2175,7 @@
           "startTime": "14:00",
           "endTime": "17:02",
           "totalSeats": 624,
-          "remainingSeats": 6
+          "remainingSeats": 4
         },
         {
           "scheduleId": "2026082200134",
@@ -2199,7 +2187,7 @@
           "startTime": "15:20",
           "endTime": "17:15",
           "totalSeats": 190,
-          "remainingSeats": 140
+          "remainingSeats": 139
         },
         {
           "scheduleId": "2026082200134",
@@ -2492,7 +2480,7 @@
           "startTime": "15:30",
           "endTime": "17:08",
           "totalSeats": 204,
-          "remainingSeats": 120
+          "remainingSeats": 119
         },
         {
           "scheduleId": "2026082300135",
@@ -2564,7 +2552,7 @@
           "startTime": "20:30",
           "endTime": "22:15",
           "totalSeats": 134,
-          "remainingSeats": 122
+          "remainingSeats": 120
         },
         {
           "scheduleId": "2026082300135",
