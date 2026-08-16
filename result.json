@@ -1,28 +1,15 @@
 {
   "alerts": [
     {
-      "date": "20260816",
+      "date": "20260817",
       "movie": "오디세이",
       "theater": "CGV 용산아이파크몰",
       "screen": "IMAX",
-      "start": "07:30",
-      "end": "10:32",
-      "remaining": 1,
+      "start": "10:00",
+      "end": "13:02",
+      "remaining": 2,
       "total": 624,
-      "scheduleId": "2026081600131",
-      "previous_remaining": 0,
-      "reason": "예매 가능한 좌석 감지"
-    },
-    {
-      "date": "20260816",
-      "movie": "오디세이",
-      "theater": "CGV 용산아이파크몰",
-      "screen": "IMAX",
-      "start": "11:00",
-      "end": "14:02",
-      "remaining": 7,
-      "total": 624,
-      "scheduleId": "2026081600132",
+      "scheduleId": "2026081700132",
       "previous_remaining": 0,
       "reason": "예매 가능한 좌석 감지"
     },
@@ -31,12 +18,12 @@
       "movie": "오디세이",
       "theater": "CGV 용산아이파크몰",
       "screen": "IMAX",
-      "start": "06:30",
-      "end": "09:32",
-      "remaining": 3,
+      "start": "13:30",
+      "end": "16:32",
+      "remaining": 1,
       "total": 624,
-      "scheduleId": "2026081700131",
-      "previous_remaining": 1,
+      "scheduleId": "2026081700133",
+      "previous_remaining": 0,
       "reason": "예매 가능한 좌석 감지"
     }
   ],
@@ -123,20 +110,9 @@
       "movie": "오디세이",
       "theater": "CGV 용산아이파크몰",
       "screen": "IMAX",
-      "start": "06:30",
-      "end": "09:32",
-      "remaining": 3,
-      "total": 624,
-      "scheduleId": "2026081700131"
-    },
-    {
-      "date": "20260817",
-      "movie": "오디세이",
-      "theater": "CGV 용산아이파크몰",
-      "screen": "IMAX",
       "start": "10:00",
       "end": "13:02",
-      "remaining": 0,
+      "remaining": 2,
       "total": 624,
       "scheduleId": "2026081700132"
     },
@@ -147,7 +123,7 @@
       "screen": "IMAX",
       "start": "13:30",
       "end": "16:32",
-      "remaining": 0,
+      "remaining": 1,
       "total": 624,
       "scheduleId": "2026081700133"
     },
@@ -257,7 +233,7 @@
       "screen": "IMAX",
       "start": "17:30",
       "end": "20:32",
-      "remaining": 6,
+      "remaining": 5,
       "total": 624,
       "scheduleId": "2026082300134"
     },
