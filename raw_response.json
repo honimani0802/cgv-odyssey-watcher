@@ -1907,23 +1907,10 @@
         "address": "South Korea, Seoul, Yongsan District, Hangang-daero 23-gil, 55 아이파크몰 용산점 패션파크 6층"
       },
       "filterRelaxed": false,
-      "timetable": [
-        {
-          "scheduleId": "2026081700138",
-          "movieCode": "30001323",
-          "movieName": "오디세이",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "25:45",
-          "endTime": "28:47",
-          "totalSeats": 190,
-          "remainingSeats": 169
-        }
-      ]
+      "timetable": []
     },
     "meta": {
-      "total": 1,
+      "total": 0,
       "pageSize": 50
     }
   },
@@ -2007,7 +1994,7 @@
           "startTime": "09:05",
           "endTime": "10:56",
           "totalSeats": 134,
-          "remainingSeats": 63
+          "remainingSeats": 61
         },
         {
           "scheduleId": "2026082200132",
@@ -2055,7 +2042,7 @@
           "startTime": "11:30",
           "endTime": "14:32",
           "totalSeats": 289,
-          "remainingSeats": 132
+          "remainingSeats": 128
         },
         {
           "scheduleId": "2026082200133",
@@ -2079,7 +2066,7 @@
           "startTime": "13:10",
           "endTime": "15:06",
           "totalSeats": 156,
-          "remainingSeats": 152
+          "remainingSeats": 150
         },
         {
           "scheduleId": "2026082200133",
@@ -2139,7 +2126,7 @@
           "startTime": "15:00",
           "endTime": "18:02",
           "totalSeats": 289,
-          "remainingSeats": 71
+          "remainingSeats": 73
         },
         {
           "scheduleId": "2026082200134",
@@ -2163,7 +2150,7 @@
           "startTime": "15:30",
           "endTime": "17:26",
           "totalSeats": 156,
-          "remainingSeats": 141
+          "remainingSeats": 139
         },
         {
           "scheduleId": "2026082200134",
@@ -2211,7 +2198,7 @@
           "startTime": "18:30",
           "endTime": "21:32",
           "totalSeats": 289,
-          "remainingSeats": 86
+          "remainingSeats": 82
         },
         {
           "scheduleId": "2026082200136",
@@ -2283,7 +2270,7 @@
           "startTime": "24:30",
           "endTime": "27:32",
           "totalSeats": 624,
-          "remainingSeats": 2
+          "remainingSeats": 6
         },
         {
           "scheduleId": "2026082200139",
@@ -2372,7 +2359,7 @@
           "startTime": "07:30",
           "endTime": "10:32",
           "totalSeats": 289,
-          "remainingSeats": 267
+          "remainingSeats": 266
         },
         {
           "scheduleId": "2026082300131",
@@ -2432,7 +2419,7 @@
           "startTime": "11:00",
           "endTime": "14:02",
           "totalSeats": 289,
-          "remainingSeats": 156
+          "remainingSeats": 154
         },
         {
           "scheduleId": "2026082300132",
@@ -2528,7 +2515,7 @@
           "startTime": "14:30",
           "endTime": "16:14",
           "totalSeats": 223,
-          "remainingSeats": 1
+          "remainingSeats": 0
         },
         {
           "scheduleId": "2026082300133",
@@ -2540,7 +2527,7 @@
           "startTime": "14:30",
           "endTime": "17:32",
           "totalSeats": 289,
-          "remainingSeats": 87
+          "remainingSeats": 83
         },
         {
           "scheduleId": "2026082300134",
@@ -2612,7 +2599,7 @@
           "startTime": "18:00",
           "endTime": "21:02",
           "totalSeats": 289,
-          "remainingSeats": 163
+          "remainingSeats": 156
         },
         {
           "scheduleId": "2026082300136",
@@ -2624,7 +2611,7 @@
           "startTime": "18:05",
           "endTime": "20:10",
           "totalSeats": 134,
-          "remainingSeats": 105
+          "remainingSeats": 104
         },
         {
           "scheduleId": "2026082300137",
@@ -2636,7 +2623,7 @@
           "startTime": "20:30",
           "endTime": "22:15",
           "totalSeats": 134,
-          "remainingSeats": 49
+          "remainingSeats": 47
         },
         {
           "scheduleId": "2026082300135",
@@ -2660,7 +2647,7 @@
           "startTime": "21:30",
           "endTime": "24:32",
           "totalSeats": 289,
-          "remainingSeats": 278
+          "remainingSeats": 276
         },
         {
           "scheduleId": "2026082300138",
