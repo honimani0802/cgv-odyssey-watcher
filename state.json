@@ -172,7 +172,7 @@
       "screen": "IMAX",
       "start": "07:00",
       "end": "10:02",
-      "remaining": 4,
+      "remaining": 6,
       "total": 624,
       "scheduleId": "2026082200131"
     },
@@ -183,7 +183,7 @@
       "screen": "IMAX",
       "start": "10:30",
       "end": "13:32",
-      "remaining": 6,
+      "remaining": 4,
       "total": 624,
       "scheduleId": "2026082200132"
     },
@@ -392,7 +392,7 @@
       "screen": "IMAX",
       "start": "24:00",
       "end": "27:02",
-      "remaining": 6,
+      "remaining": 3,
       "total": 624,
       "scheduleId": "2026081700136"
     }
