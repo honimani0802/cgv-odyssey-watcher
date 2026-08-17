@@ -216,7 +216,7 @@
       "screen": "IMAX",
       "start": "21:00",
       "end": "24:02",
-      "remaining": 4,
+      "remaining": 6,
       "total": 624,
       "scheduleId": "2026082200135"
     },
@@ -260,7 +260,7 @@
       "screen": "IMAX",
       "start": "14:00",
       "end": "17:02",
-      "remaining": 3,
+      "remaining": 4,
       "total": 624,
       "scheduleId": "2026082300133"
     },
