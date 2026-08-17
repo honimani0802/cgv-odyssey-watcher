@@ -1907,10 +1907,611 @@
         "address": "South Korea, Seoul, Yongsan District, Hangang-daero 23-gil, 55 아이파크몰 용산점 패션파크 6층"
       },
       "filterRelaxed": false,
-      "timetable": []
+      "timetable": [
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "06:30",
+          "endTime": "09:05",
+          "totalSeats": 184,
+          "remainingSeats": 117
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001325",
+          "movieName": "오케이 마담2",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "06:30",
+          "endTime": "08:28",
+          "totalSeats": 115,
+          "remainingSeats": 113
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "06:30",
+          "endTime": "09:32",
+          "totalSeats": 624,
+          "remainingSeats": 9
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "07:00",
+          "endTime": "09:35",
+          "totalSeats": 200,
+          "remainingSeats": 23
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001320",
+          "movieName": "경멸",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "07:00",
+          "endTime": "08:54",
+          "totalSeats": 134,
+          "remainingSeats": 115
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "07:05",
+          "endTime": "10:07",
+          "totalSeats": 289,
+          "remainingSeats": 35
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001326",
+          "movieName": "명탐정 코난-하이웨이의 타천사",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "07:15",
+          "endTime": "09:14",
+          "totalSeats": 190,
+          "remainingSeats": 179
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "07:30",
+          "endTime": "10:32",
+          "totalSeats": 204,
+          "remainingSeats": 12
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001325",
+          "movieName": "오케이 마담2",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "07:40",
+          "endTime": "09:38",
+          "totalSeats": 156,
+          "remainingSeats": 137
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001325",
+          "movieName": "오케이 마담2",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "07:40",
+          "endTime": "09:38",
+          "totalSeats": 12,
+          "remainingSeats": 12
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "07:50",
+          "endTime": "10:52",
+          "totalSeats": 144,
+          "remainingSeats": 7
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "08:00",
+          "endTime": "10:35",
+          "totalSeats": 194,
+          "remainingSeats": 18
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001326",
+          "movieName": "명탐정 코난-하이웨이의 타천사",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "08:10",
+          "endTime": "10:09",
+          "totalSeats": 200,
+          "remainingSeats": 166
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "08:10",
+          "endTime": "11:12",
+          "totalSeats": 223,
+          "remainingSeats": 8
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001297",
+          "movieName": "호프",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "08:15",
+          "endTime": "11:01",
+          "totalSeats": 126,
+          "remainingSeats": 40
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001325",
+          "movieName": "오케이 마담2",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "08:30",
+          "endTime": "10:28",
+          "totalSeats": 142,
+          "remainingSeats": 134
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "08:40",
+          "endTime": "11:42",
+          "totalSeats": 214,
+          "remainingSeats": 5
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "08:55",
+          "endTime": "11:30",
+          "totalSeats": 115,
+          "remainingSeats": 13
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001227",
+          "movieName": "마티 슈프림",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "09:15",
+          "endTime": "11:55",
+          "totalSeats": 134,
+          "remainingSeats": 64
+        },
+        {
+          "scheduleId": "2026081700131",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "09:20",
+          "endTime": "12:22",
+          "totalSeats": 201,
+          "remainingSeats": 4
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "09:30",
+          "endTime": "12:05",
+          "totalSeats": 184,
+          "remainingSeats": 14
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001326",
+          "movieName": "명탐정 코난-하이웨이의 타천사",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "09:35",
+          "endTime": "11:34",
+          "totalSeats": 190,
+          "remainingSeats": 76
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "10:00",
+          "endTime": "12:35",
+          "totalSeats": 200,
+          "remainingSeats": 6
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001325",
+          "movieName": "오케이 마담2",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "10:00",
+          "endTime": "11:58",
+          "totalSeats": 156,
+          "remainingSeats": 82
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "10:00",
+          "endTime": "13:02",
+          "totalSeats": 624,
+          "remainingSeats": 7
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001325",
+          "movieName": "오케이 마담2",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "10:00",
+          "endTime": "11:58",
+          "totalSeats": 12,
+          "remainingSeats": 10
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001045",
+          "movieName": "사랑의 하츄핑-고래보석의 전설",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "10:25",
+          "endTime": "12:20",
+          "totalSeats": 200,
+          "remainingSeats": 8
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "10:35",
+          "endTime": "13:37",
+          "totalSeats": 289,
+          "remainingSeats": 3
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001325",
+          "movieName": "오케이 마담2",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "10:55",
+          "endTime": "12:53",
+          "totalSeats": 142,
+          "remainingSeats": 104
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "11:00",
+          "endTime": "14:02",
+          "totalSeats": 204,
+          "remainingSeats": 0
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "11:00",
+          "endTime": "13:35",
+          "totalSeats": 194,
+          "remainingSeats": 4
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "11:20",
+          "endTime": "13:55",
+          "totalSeats": 144,
+          "remainingSeats": 11
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001288",
+          "movieName": "퍼피 구조대-더 다이노 무비",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "11:30",
+          "endTime": "13:08",
+          "totalSeats": 126,
+          "remainingSeats": 2
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "11:35",
+          "endTime": "14:37",
+          "totalSeats": 223,
+          "remainingSeats": 5
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001326",
+          "movieName": "명탐정 코난-하이웨이의 타천사",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "11:55",
+          "endTime": "13:54",
+          "totalSeats": 190,
+          "remainingSeats": 45
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "11:55",
+          "endTime": "14:30",
+          "totalSeats": 115,
+          "remainingSeats": 2
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "12:10",
+          "endTime": "15:12",
+          "totalSeats": 214,
+          "remainingSeats": 5
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001329",
+          "movieName": "어떻게 해야 했을까",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "12:15",
+          "endTime": "14:06",
+          "totalSeats": 134,
+          "remainingSeats": 12
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001325",
+          "movieName": "오케이 마담2",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "12:20",
+          "endTime": "14:18",
+          "totalSeats": 156,
+          "remainingSeats": 66
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001325",
+          "movieName": "오케이 마담2",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "12:20",
+          "endTime": "14:18",
+          "totalSeats": 12,
+          "remainingSeats": 12
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "12:30",
+          "endTime": "15:05",
+          "totalSeats": 184,
+          "remainingSeats": 2
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001045",
+          "movieName": "사랑의 하츄핑-고래보석의 전설",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "12:40",
+          "endTime": "14:35",
+          "totalSeats": 200,
+          "remainingSeats": 10
+        },
+        {
+          "scheduleId": "2026081700132",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "12:50",
+          "endTime": "15:52",
+          "totalSeats": 201,
+          "remainingSeats": 4
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "13:00",
+          "endTime": "15:35",
+          "totalSeats": 200,
+          "remainingSeats": 3
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001326",
+          "movieName": "명탐정 코난-하이웨이의 타천사",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "13:20",
+          "endTime": "15:19",
+          "totalSeats": 142,
+          "remainingSeats": 12
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "13:30",
+          "endTime": "16:32",
+          "totalSeats": 624,
+          "remainingSeats": 2
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001288",
+          "movieName": "퍼피 구조대-더 다이노 무비",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "13:40",
+          "endTime": "15:18",
+          "totalSeats": 126,
+          "remainingSeats": 0
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "14:00",
+          "endTime": "16:35",
+          "totalSeats": 194,
+          "remainingSeats": 2
+        },
+        {
+          "scheduleId": "2026081700133",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "14:05",
+          "endTime": "17:07",
+          "totalSeats": 289,
+          "remainingSeats": 2
+        },
+        {
+          "scheduleId": "2026081700134",
+          "movieCode": "30001326",
+          "movieName": "명탐정 코난-하이웨이의 타천사",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "14:15",
+          "endTime": "16:14",
+          "totalSeats": 190,
+          "remainingSeats": 6
+        }
+      ]
     },
     "meta": {
-      "total": 0,
+      "total": 50,
       "pageSize": 50
     }
   },
@@ -1970,7 +2571,7 @@
           "startTime": "08:00",
           "endTime": "11:02",
           "totalSeats": 289,
-          "remainingSeats": 245
+          "remainingSeats": 243
         },
         {
           "scheduleId": "2026082200131",
@@ -2042,7 +2643,7 @@
           "startTime": "11:30",
           "endTime": "14:32",
           "totalSeats": 289,
-          "remainingSeats": 125
+          "remainingSeats": 121
         },
         {
           "scheduleId": "2026082200133",
@@ -2126,7 +2727,7 @@
           "startTime": "15:00",
           "endTime": "18:02",
           "totalSeats": 289,
-          "remainingSeats": 73
+          "remainingSeats": 71
         },
         {
           "scheduleId": "2026082200134",
@@ -2246,7 +2847,7 @@
           "startTime": "22:00",
           "endTime": "25:02",
           "totalSeats": 289,
-          "remainingSeats": 258
+          "remainingSeats": 256
         },
         {
           "scheduleId": "2026082200138",
@@ -2359,7 +2960,7 @@
           "startTime": "07:30",
           "endTime": "10:32",
           "totalSeats": 289,
-          "remainingSeats": 266
+          "remainingSeats": 264
         },
         {
           "scheduleId": "2026082300131",
@@ -2371,7 +2972,7 @@
           "startTime": "09:25",
           "endTime": "11:24",
           "totalSeats": 214,
-          "remainingSeats": 1
+          "remainingSeats": 0
         },
         {
           "scheduleId": "2026082300132",
@@ -2419,7 +3020,7 @@
           "startTime": "11:00",
           "endTime": "14:02",
           "totalSeats": 289,
-          "remainingSeats": 154
+          "remainingSeats": 149
         },
         {
           "scheduleId": "2026082300132",
@@ -2527,7 +3128,7 @@
           "startTime": "14:30",
           "endTime": "17:32",
           "totalSeats": 289,
-          "remainingSeats": 83
+          "remainingSeats": 80
         },
         {
           "scheduleId": "2026082300134",
@@ -2563,7 +3164,7 @@
           "startTime": "15:55",
           "endTime": "17:45",
           "totalSeats": 142,
-          "remainingSeats": 1
+          "remainingSeats": 0
         },
         {
           "scheduleId": "2026082300135",
@@ -2599,7 +3200,7 @@
           "startTime": "18:00",
           "endTime": "21:02",
           "totalSeats": 289,
-          "remainingSeats": 156
+          "remainingSeats": 152
         },
         {
           "scheduleId": "2026082300136",
@@ -2647,7 +3248,7 @@
           "startTime": "21:30",
           "endTime": "24:32",
           "totalSeats": 289,
-          "remainingSeats": 276
+          "remainingSeats": 272
         },
         {
           "scheduleId": "2026082300138",
