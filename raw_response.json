@@ -1909,162 +1909,6 @@
       "filterRelaxed": false,
       "timetable": [
         {
-          "scheduleId": "2026081700132",
-          "movieCode": "30001323",
-          "movieName": "오디세이",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "12:10",
-          "endTime": "15:12",
-          "totalSeats": 214,
-          "remainingSeats": 3
-        },
-        {
-          "scheduleId": "2026081700133",
-          "movieCode": "30001329",
-          "movieName": "어떻게 해야 했을까",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "12:15",
-          "endTime": "14:06",
-          "totalSeats": 134,
-          "remainingSeats": 14
-        },
-        {
-          "scheduleId": "2026081700133",
-          "movieCode": "30001325",
-          "movieName": "오케이 마담2",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "12:20",
-          "endTime": "14:18",
-          "totalSeats": 156,
-          "remainingSeats": 66
-        },
-        {
-          "scheduleId": "2026081700133",
-          "movieCode": "30001325",
-          "movieName": "오케이 마담2",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "12:20",
-          "endTime": "14:18",
-          "totalSeats": 12,
-          "remainingSeats": 12
-        },
-        {
-          "scheduleId": "2026081700133",
-          "movieCode": "30001192",
-          "movieName": "스파이더맨-브랜드 뉴 데이",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "12:30",
-          "endTime": "15:05",
-          "totalSeats": 184,
-          "remainingSeats": 2
-        },
-        {
-          "scheduleId": "2026081700133",
-          "movieCode": "30001045",
-          "movieName": "사랑의 하츄핑-고래보석의 전설",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "12:40",
-          "endTime": "14:35",
-          "totalSeats": 200,
-          "remainingSeats": 10
-        },
-        {
-          "scheduleId": "2026081700132",
-          "movieCode": "30001323",
-          "movieName": "오디세이",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "12:50",
-          "endTime": "15:52",
-          "totalSeats": 201,
-          "remainingSeats": 5
-        },
-        {
-          "scheduleId": "2026081700133",
-          "movieCode": "30001192",
-          "movieName": "스파이더맨-브랜드 뉴 데이",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "13:00",
-          "endTime": "15:35",
-          "totalSeats": 200,
-          "remainingSeats": 2
-        },
-        {
-          "scheduleId": "2026081700133",
-          "movieCode": "30001326",
-          "movieName": "명탐정 코난-하이웨이의 타천사",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "13:20",
-          "endTime": "15:19",
-          "totalSeats": 142,
-          "remainingSeats": 15
-        },
-        {
-          "scheduleId": "2026081700133",
-          "movieCode": "30001323",
-          "movieName": "오디세이",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "13:30",
-          "endTime": "16:32",
-          "totalSeats": 624,
-          "remainingSeats": 0
-        },
-        {
-          "scheduleId": "2026081700133",
-          "movieCode": "30001288",
-          "movieName": "퍼피 구조대-더 다이노 무비",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "13:40",
-          "endTime": "15:18",
-          "totalSeats": 126,
-          "remainingSeats": 2
-        },
-        {
-          "scheduleId": "2026081700133",
-          "movieCode": "30001192",
-          "movieName": "스파이더맨-브랜드 뉴 데이",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "14:00",
-          "endTime": "16:35",
-          "totalSeats": 194,
-          "remainingSeats": 2
-        },
-        {
-          "scheduleId": "2026081700133",
-          "movieCode": "30001323",
-          "movieName": "오디세이",
-          "theaterCode": "0013",
-          "theaterName": "CGV 용산아이파크몰",
-          "playDate": "20260817",
-          "startTime": "14:05",
-          "endTime": "17:07",
-          "totalSeats": 289,
-          "remainingSeats": 4
-        },
-        {
           "scheduleId": "2026081700134",
           "movieCode": "30001326",
           "movieName": "명탐정 코난-하이웨이의 타천사",
@@ -2074,7 +1918,7 @@
           "startTime": "14:15",
           "endTime": "16:14",
           "totalSeats": 190,
-          "remainingSeats": 23
+          "remainingSeats": 6
         },
         {
           "scheduleId": "2026081700133",
@@ -2110,7 +1954,7 @@
           "startTime": "14:30",
           "endTime": "16:35",
           "totalSeats": 134,
-          "remainingSeats": 46
+          "remainingSeats": 50
         },
         {
           "scheduleId": "2026081700134",
@@ -2122,7 +1966,7 @@
           "startTime": "14:40",
           "endTime": "16:38",
           "totalSeats": 156,
-          "remainingSeats": 50
+          "remainingSeats": 31
         },
         {
           "scheduleId": "2026081700134",
@@ -2158,7 +2002,7 @@
           "startTime": "15:00",
           "endTime": "18:02",
           "totalSeats": 223,
-          "remainingSeats": 4
+          "remainingSeats": 3
         },
         {
           "scheduleId": "2026081700134",
@@ -2170,7 +2014,7 @@
           "startTime": "15:00",
           "endTime": "17:35",
           "totalSeats": 115,
-          "remainingSeats": 2
+          "remainingSeats": 3
         },
         {
           "scheduleId": "2026081700134",
@@ -2182,7 +2026,7 @@
           "startTime": "15:30",
           "endTime": "18:05",
           "totalSeats": 184,
-          "remainingSeats": 0
+          "remainingSeats": 1
         },
         {
           "scheduleId": "2026081700133",
@@ -2194,7 +2038,7 @@
           "startTime": "15:40",
           "endTime": "18:42",
           "totalSeats": 214,
-          "remainingSeats": 2
+          "remainingSeats": 3
         },
         {
           "scheduleId": "2026081700134",
@@ -2206,7 +2050,7 @@
           "startTime": "15:45",
           "endTime": "17:43",
           "totalSeats": 142,
-          "remainingSeats": 93
+          "remainingSeats": 58
         },
         {
           "scheduleId": "2026081700134",
@@ -2218,7 +2062,7 @@
           "startTime": "15:50",
           "endTime": "17:45",
           "totalSeats": 126,
-          "remainingSeats": 9
+          "remainingSeats": 5
         },
         {
           "scheduleId": "2026081700134",
@@ -2230,7 +2074,7 @@
           "startTime": "16:00",
           "endTime": "18:35",
           "totalSeats": 200,
-          "remainingSeats": 2
+          "remainingSeats": 0
         },
         {
           "scheduleId": "2026081700133",
@@ -2242,7 +2086,7 @@
           "startTime": "16:20",
           "endTime": "19:22",
           "totalSeats": 201,
-          "remainingSeats": 4
+          "remainingSeats": 3
         },
         {
           "scheduleId": "2026081700135",
@@ -2254,7 +2098,7 @@
           "startTime": "16:35",
           "endTime": "18:34",
           "totalSeats": 190,
-          "remainingSeats": 27
+          "remainingSeats": 24
         },
         {
           "scheduleId": "2026081700135",
@@ -2290,7 +2134,7 @@
           "startTime": "17:00",
           "endTime": "18:58",
           "totalSeats": 156,
-          "remainingSeats": 128
+          "remainingSeats": 106
         },
         {
           "scheduleId": "2026081700134",
@@ -2338,7 +2182,7 @@
           "startTime": "17:20",
           "endTime": "19:55",
           "totalSeats": 200,
-          "remainingSeats": 11
+          "remainingSeats": 2
         },
         {
           "scheduleId": "2026081700134",
@@ -2350,7 +2194,7 @@
           "startTime": "17:40",
           "endTime": "20:42",
           "totalSeats": 289,
-          "remainingSeats": 9
+          "remainingSeats": 5
         },
         {
           "scheduleId": "2026081700134",
@@ -2362,7 +2206,7 @@
           "startTime": "18:00",
           "endTime": "21:02",
           "totalSeats": 204,
-          "remainingSeats": 5
+          "remainingSeats": 2
         },
         {
           "scheduleId": "2026081700135",
@@ -2386,7 +2230,7 @@
           "startTime": "18:10",
           "endTime": "20:09",
           "totalSeats": 142,
-          "remainingSeats": 47
+          "remainingSeats": 34
         },
         {
           "scheduleId": "2026081700135",
@@ -2398,7 +2242,7 @@
           "startTime": "18:15",
           "endTime": "21:17",
           "totalSeats": 126,
-          "remainingSeats": 9
+          "remainingSeats": 5
         },
         {
           "scheduleId": "2026081700135",
@@ -2410,7 +2254,7 @@
           "startTime": "18:30",
           "endTime": "21:05",
           "totalSeats": 184,
-          "remainingSeats": 14
+          "remainingSeats": 6
         },
         {
           "scheduleId": "2026081700134",
@@ -2422,7 +2266,7 @@
           "startTime": "18:30",
           "endTime": "21:32",
           "totalSeats": 223,
-          "remainingSeats": 14
+          "remainingSeats": 12
         },
         {
           "scheduleId": "2026081700136",
@@ -2434,7 +2278,7 @@
           "startTime": "18:55",
           "endTime": "21:57",
           "totalSeats": 190,
-          "remainingSeats": 22
+          "remainingSeats": 14
         },
         {
           "scheduleId": "2026081700135",
@@ -2446,7 +2290,7 @@
           "startTime": "19:00",
           "endTime": "21:35",
           "totalSeats": 200,
-          "remainingSeats": 4
+          "remainingSeats": 2
         },
         {
           "scheduleId": "2026081700134",
@@ -2458,7 +2302,7 @@
           "startTime": "19:15",
           "endTime": "22:17",
           "totalSeats": 214,
-          "remainingSeats": 15
+          "remainingSeats": 11
         },
         {
           "scheduleId": "2026081700136",
@@ -2470,7 +2314,7 @@
           "startTime": "19:20",
           "endTime": "21:18",
           "totalSeats": 156,
-          "remainingSeats": 123
+          "remainingSeats": 116
         },
         {
           "scheduleId": "2026081700136",
@@ -2506,7 +2350,163 @@
           "startTime": "19:55",
           "endTime": "22:57",
           "totalSeats": 201,
-          "remainingSeats": 17
+          "remainingSeats": 18
+        },
+        {
+          "scheduleId": "2026081700135",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "20:00",
+          "endTime": "22:35",
+          "totalSeats": 194,
+          "remainingSeats": 9
+        },
+        {
+          "scheduleId": "2026081700136",
+          "movieCode": "30001326",
+          "movieName": "명탐정 코난-하이웨이의 타천사",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "20:30",
+          "endTime": "22:29",
+          "totalSeats": 200,
+          "remainingSeats": 105
+        },
+        {
+          "scheduleId": "2026081700135",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "20:30",
+          "endTime": "23:32",
+          "totalSeats": 624,
+          "remainingSeats": 0
+        },
+        {
+          "scheduleId": "2026081700136",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "20:45",
+          "endTime": "23:47",
+          "totalSeats": 142,
+          "remainingSeats": 30
+        },
+        {
+          "scheduleId": "2026081700135",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "20:50",
+          "endTime": "23:25",
+          "totalSeats": 144,
+          "remainingSeats": 4
+        },
+        {
+          "scheduleId": "2026081700135",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "21:10",
+          "endTime": "24:12",
+          "totalSeats": 289,
+          "remainingSeats": 64
+        },
+        {
+          "scheduleId": "2026081700136",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "21:15",
+          "endTime": "23:50",
+          "totalSeats": 115,
+          "remainingSeats": 6
+        },
+        {
+          "scheduleId": "2026081700135",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "21:30",
+          "endTime": "24:32",
+          "totalSeats": 204,
+          "remainingSeats": 66
+        },
+        {
+          "scheduleId": "2026081700136",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "21:30",
+          "endTime": "24:05",
+          "totalSeats": 184,
+          "remainingSeats": 61
+        },
+        {
+          "scheduleId": "2026081700137",
+          "movieCode": "30001329",
+          "movieName": "어떻게 해야 했을까",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "21:30",
+          "endTime": "23:21",
+          "totalSeats": 134,
+          "remainingSeats": 63
+        },
+        {
+          "scheduleId": "2026081700137",
+          "movieCode": "30001325",
+          "movieName": "오케이 마담2",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "21:40",
+          "endTime": "23:38",
+          "totalSeats": 156,
+          "remainingSeats": 149
+        },
+        {
+          "scheduleId": "2026081700137",
+          "movieCode": "30001325",
+          "movieName": "오케이 마담2",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "21:40",
+          "endTime": "23:38",
+          "totalSeats": 12,
+          "remainingSeats": 12
+        },
+        {
+          "scheduleId": "2026081700136",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260817",
+          "startTime": "21:45",
+          "endTime": "24:47",
+          "totalSeats": 126,
+          "remainingSeats": 91
         }
       ]
     },
@@ -2571,7 +2571,7 @@
           "startTime": "09:05",
           "endTime": "10:56",
           "totalSeats": 134,
-          "remainingSeats": 103
+          "remainingSeats": 99
         },
         {
           "scheduleId": "2026082200132",
@@ -2583,7 +2583,7 @@
           "startTime": "10:30",
           "endTime": "13:32",
           "totalSeats": 624,
-          "remainingSeats": 6
+          "remainingSeats": 4
         },
         {
           "scheduleId": "2026082200133",
@@ -2595,7 +2595,7 @@
           "startTime": "11:15",
           "endTime": "13:23",
           "totalSeats": 134,
-          "remainingSeats": 112
+          "remainingSeats": 109
         },
         {
           "scheduleId": "2026082200133",
@@ -2607,7 +2607,7 @@
           "startTime": "12:30",
           "endTime": "13:45",
           "totalSeats": 126,
-          "remainingSeats": 56
+          "remainingSeats": 55
         },
         {
           "scheduleId": "2026082200133",
@@ -2631,7 +2631,7 @@
           "startTime": "13:45",
           "endTime": "15:30",
           "totalSeats": 134,
-          "remainingSeats": 14
+          "remainingSeats": 2
         },
         {
           "scheduleId": "2026082200133",
@@ -2655,7 +2655,7 @@
           "startTime": "14:00",
           "endTime": "17:02",
           "totalSeats": 624,
-          "remainingSeats": 6
+          "remainingSeats": 5
         },
         {
           "scheduleId": "2026082200134",
@@ -2667,7 +2667,7 @@
           "startTime": "15:20",
           "endTime": "17:15",
           "totalSeats": 190,
-          "remainingSeats": 102
+          "remainingSeats": 100
         },
         {
           "scheduleId": "2026082200134",
@@ -2792,7 +2792,7 @@
           "startTime": "07:00",
           "endTime": "10:02",
           "totalSeats": 624,
-          "remainingSeats": 6
+          "remainingSeats": 3
         },
         {
           "scheduleId": "2026082300131",
@@ -2804,7 +2804,7 @@
           "startTime": "07:20",
           "endTime": "09:11",
           "totalSeats": 134,
-          "remainingSeats": 130
+          "remainingSeats": 128
         },
         {
           "scheduleId": "2026082300131",
@@ -2924,7 +2924,7 @@
           "startTime": "13:45",
           "endTime": "15:31",
           "totalSeats": 134,
-          "remainingSeats": 130
+          "remainingSeats": 129
         },
         {
           "scheduleId": "2026082300133",
@@ -3008,7 +3008,7 @@
           "startTime": "17:30",
           "endTime": "20:32",
           "totalSeats": 624,
-          "remainingSeats": 6
+          "remainingSeats": 3
         },
         {
           "scheduleId": "2026082300136",
@@ -3020,7 +3020,7 @@
           "startTime": "18:05",
           "endTime": "20:10",
           "totalSeats": 134,
-          "remainingSeats": 109
+          "remainingSeats": 107
         },
         {
           "scheduleId": "2026082300137",
@@ -3032,7 +3032,7 @@
           "startTime": "20:30",
           "endTime": "22:15",
           "totalSeats": 134,
-          "remainingSeats": 84
+          "remainingSeats": 73
         },
         {
           "scheduleId": "2026082300135",
@@ -3044,7 +3044,7 @@
           "startTime": "21:00",
           "endTime": "24:02",
           "totalSeats": 624,
-          "remainingSeats": 5
+          "remainingSeats": 6
         },
         {
           "scheduleId": "2026082300138",
@@ -3080,7 +3080,7 @@
           "startTime": "25:05",
           "endTime": "26:56",
           "totalSeats": 134,
-          "remainingSeats": 134
+          "remainingSeats": 133
         }
       ]
     },
