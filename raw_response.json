@@ -2551,6 +2551,18 @@
         },
         {
           "scheduleId": "2026082200131",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "07:10",
+          "endTime": "09:45",
+          "totalSeats": 200,
+          "remainingSeats": 111
+        },
+        {
+          "scheduleId": "2026082200131",
           "movieCode": "30001356",
           "movieName": "지난 여름",
           "theaterCode": "0013",
@@ -2563,6 +2575,18 @@
         },
         {
           "scheduleId": "2026082200131",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "07:35",
+          "endTime": "10:10",
+          "totalSeats": 144,
+          "remainingSeats": 31
+        },
+        {
+          "scheduleId": "2026082200131",
           "movieCode": "30001323",
           "movieName": "오디세이",
           "theaterCode": "0013",
@@ -2571,7 +2595,7 @@
           "startTime": "08:00",
           "endTime": "11:02",
           "totalSeats": 289,
-          "remainingSeats": 214
+          "remainingSeats": 169
         },
         {
           "scheduleId": "2026082200131",
@@ -2595,7 +2619,31 @@
           "startTime": "09:05",
           "endTime": "10:56",
           "totalSeats": 134,
-          "remainingSeats": 61
+          "remainingSeats": 58
+        },
+        {
+          "scheduleId": "2026082200131",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "09:10",
+          "endTime": "11:45",
+          "totalSeats": 115,
+          "remainingSeats": 104
+        },
+        {
+          "scheduleId": "2026082200132",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "10:10",
+          "endTime": "12:45",
+          "totalSeats": 200,
+          "remainingSeats": 70
         },
         {
           "scheduleId": "2026082200132",
@@ -2607,7 +2655,19 @@
           "startTime": "10:30",
           "endTime": "13:32",
           "totalSeats": 624,
-          "remainingSeats": 4
+          "remainingSeats": 6
+        },
+        {
+          "scheduleId": "2026082200132",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "10:45",
+          "endTime": "13:20",
+          "totalSeats": 144,
+          "remainingSeats": 13
         },
         {
           "scheduleId": "2026082200132",
@@ -2619,7 +2679,7 @@
           "startTime": "10:50",
           "endTime": "12:46",
           "totalSeats": 156,
-          "remainingSeats": 152
+          "remainingSeats": 137
         },
         {
           "scheduleId": "2026082200133",
@@ -2631,7 +2691,7 @@
           "startTime": "11:15",
           "endTime": "13:23",
           "totalSeats": 134,
-          "remainingSeats": 109
+          "remainingSeats": 105
         },
         {
           "scheduleId": "2026082200132",
@@ -2643,7 +2703,19 @@
           "startTime": "11:30",
           "endTime": "14:32",
           "totalSeats": 289,
-          "remainingSeats": 80
+          "remainingSeats": 58
+        },
+        {
+          "scheduleId": "2026082200132",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "12:10",
+          "endTime": "14:45",
+          "totalSeats": 115,
+          "remainingSeats": 79
         },
         {
           "scheduleId": "2026082200133",
@@ -2659,6 +2731,18 @@
         },
         {
           "scheduleId": "2026082200133",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "13:10",
+          "endTime": "15:45",
+          "totalSeats": 200,
+          "remainingSeats": 60
+        },
+        {
+          "scheduleId": "2026082200133",
           "movieCode": "30001222",
           "movieName": "인시디어스-그들이 넘어왔다",
           "theaterCode": "0013",
@@ -2667,7 +2751,7 @@
           "startTime": "13:10",
           "endTime": "15:06",
           "totalSeats": 156,
-          "remainingSeats": 147
+          "remainingSeats": 138
         },
         {
           "scheduleId": "2026082200133",
@@ -2680,6 +2764,18 @@
           "endTime": "15:14",
           "totalSeats": 223,
           "remainingSeats": 0
+        },
+        {
+          "scheduleId": "2026082200133",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "13:45",
+          "endTime": "16:47",
+          "totalSeats": 144,
+          "remainingSeats": 6
         },
         {
           "scheduleId": "2026082200134",
@@ -2715,7 +2811,7 @@
           "startTime": "14:00",
           "endTime": "17:02",
           "totalSeats": 624,
-          "remainingSeats": 6
+          "remainingSeats": 5
         },
         {
           "scheduleId": "2026082200133",
@@ -2727,7 +2823,19 @@
           "startTime": "15:00",
           "endTime": "18:02",
           "totalSeats": 289,
-          "remainingSeats": 64
+          "remainingSeats": 48
+        },
+        {
+          "scheduleId": "2026082200133",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "15:10",
+          "endTime": "17:45",
+          "totalSeats": 115,
+          "remainingSeats": 84
         },
         {
           "scheduleId": "2026082200134",
@@ -2739,7 +2847,7 @@
           "startTime": "15:20",
           "endTime": "17:15",
           "totalSeats": 190,
-          "remainingSeats": 74
+          "remainingSeats": 55
         },
         {
           "scheduleId": "2026082200134",
@@ -2751,7 +2859,31 @@
           "startTime": "15:30",
           "endTime": "17:26",
           "totalSeats": 156,
-          "remainingSeats": 134
+          "remainingSeats": 121
+        },
+        {
+          "scheduleId": "2026082200134",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "16:10",
+          "endTime": "18:45",
+          "totalSeats": 200,
+          "remainingSeats": 55
+        },
+        {
+          "scheduleId": "2026082200134",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "17:15",
+          "endTime": "20:17",
+          "totalSeats": 144,
+          "remainingSeats": 7
         },
         {
           "scheduleId": "2026082200134",
@@ -2775,7 +2907,7 @@
           "startTime": "17:50",
           "endTime": "19:46",
           "totalSeats": 156,
-          "remainingSeats": 150
+          "remainingSeats": 143
         },
         {
           "scheduleId": "2026082200134",
@@ -2791,6 +2923,18 @@
         },
         {
           "scheduleId": "2026082200134",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "18:10",
+          "endTime": "20:45",
+          "totalSeats": 115,
+          "remainingSeats": 79
+        },
+        {
+          "scheduleId": "2026082200134",
           "movieCode": "30001323",
           "movieName": "오디세이",
           "theaterCode": "0013",
@@ -2799,7 +2943,19 @@
           "startTime": "18:30",
           "endTime": "21:32",
           "totalSeats": 289,
-          "remainingSeats": 75
+          "remainingSeats": 54
+        },
+        {
+          "scheduleId": "2026082200135",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "19:10",
+          "endTime": "21:45",
+          "totalSeats": 200,
+          "remainingSeats": 57
         },
         {
           "scheduleId": "2026082200136",
@@ -2811,7 +2967,19 @@
           "startTime": "20:10",
           "endTime": "22:06",
           "totalSeats": 156,
-          "remainingSeats": 145
+          "remainingSeats": 143
+        },
+        {
+          "scheduleId": "2026082200135",
+          "movieCode": "30001323",
+          "movieName": "오디세이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "20:45",
+          "endTime": "23:47",
+          "totalSeats": 144,
+          "remainingSeats": 4
         },
         {
           "scheduleId": "2026082200135",
@@ -2839,6 +3007,18 @@
         },
         {
           "scheduleId": "2026082200135",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "21:10",
+          "endTime": "23:45",
+          "totalSeats": 115,
+          "remainingSeats": 85
+        },
+        {
+          "scheduleId": "2026082200135",
           "movieCode": "30001323",
           "movieName": "오디세이",
           "theaterCode": "0013",
@@ -2847,7 +3027,19 @@
           "startTime": "22:00",
           "endTime": "25:02",
           "totalSeats": 289,
-          "remainingSeats": 248
+          "remainingSeats": 216
+        },
+        {
+          "scheduleId": "2026082200136",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "22:10",
+          "endTime": "24:45",
+          "totalSeats": 200,
+          "remainingSeats": 90
         },
         {
           "scheduleId": "2026082200138",
@@ -2863,6 +3055,30 @@
         },
         {
           "scheduleId": "2026082200136",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "24:10",
+          "endTime": "26:45",
+          "totalSeats": 115,
+          "remainingSeats": 110
+        },
+        {
+          "scheduleId": "2026082200136",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "24:25",
+          "endTime": "27:00",
+          "totalSeats": 144,
+          "remainingSeats": 51
+        },
+        {
+          "scheduleId": "2026082200136",
           "movieCode": "30001323",
           "movieName": "오디세이",
           "theaterCode": "0013",
@@ -2871,7 +3087,19 @@
           "startTime": "24:30",
           "endTime": "27:32",
           "totalSeats": 624,
-          "remainingSeats": 6
+          "remainingSeats": 4
+        },
+        {
+          "scheduleId": "2026082200137",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260822",
+          "startTime": "25:10",
+          "endTime": "27:45",
+          "totalSeats": 200,
+          "remainingSeats": 132
         },
         {
           "scheduleId": "2026082200139",
@@ -2895,12 +3123,12 @@
           "startTime": "25:30",
           "endTime": "28:32",
           "totalSeats": 289,
-          "remainingSeats": 289
+          "remainingSeats": 286
         }
       ]
     },
     "meta": {
-      "total": 30,
+      "total": 49,
       "pageSize": 50
     }
   },
@@ -2928,6 +3156,18 @@
       "timetable": [
         {
           "scheduleId": "2026082300131",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260823",
+          "startTime": "06:30",
+          "endTime": "09:05",
+          "totalSeats": 200,
+          "remainingSeats": 125
+        },
+        {
+          "scheduleId": "2026082300131",
           "movieCode": "30001323",
           "movieName": "오디세이",
           "theaterCode": "0013",
@@ -2948,7 +3188,7 @@
           "startTime": "07:20",
           "endTime": "09:11",
           "totalSeats": 134,
-          "remainingSeats": 125
+          "remainingSeats": 122
         },
         {
           "scheduleId": "2026082300131",
@@ -2960,7 +3200,31 @@
           "startTime": "07:30",
           "endTime": "10:32",
           "totalSeats": 289,
-          "remainingSeats": 255
+          "remainingSeats": 227
+        },
+        {
+          "scheduleId": "2026082300131",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260823",
+          "startTime": "08:35",
+          "endTime": "11:10",
+          "totalSeats": 115,
+          "remainingSeats": 103
+        },
+        {
+          "scheduleId": "2026082300132",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260823",
+          "startTime": "09:25",
+          "endTime": "12:00",
+          "totalSeats": 200,
+          "remainingSeats": 83
         },
         {
           "scheduleId": "2026082300131",
@@ -2984,7 +3248,7 @@
           "startTime": "09:30",
           "endTime": "11:45",
           "totalSeats": 134,
-          "remainingSeats": 123
+          "remainingSeats": 126
         },
         {
           "scheduleId": "2026082300131",
@@ -3020,7 +3284,19 @@
           "startTime": "11:00",
           "endTime": "14:02",
           "totalSeats": 289,
-          "remainingSeats": 121
+          "remainingSeats": 91
+        },
+        {
+          "scheduleId": "2026082300132",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260823",
+          "startTime": "11:35",
+          "endTime": "14:10",
+          "totalSeats": 115,
+          "remainingSeats": 87
         },
         {
           "scheduleId": "2026082300132",
@@ -3057,6 +3333,18 @@
           "endTime": "13:25",
           "totalSeats": 134,
           "remainingSeats": 117
+        },
+        {
+          "scheduleId": "2026082300133",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260823",
+          "startTime": "12:25",
+          "endTime": "15:00",
+          "totalSeats": 200,
+          "remainingSeats": 59
         },
         {
           "scheduleId": "2026082300133",
@@ -3104,7 +3392,7 @@
           "startTime": "14:00",
           "endTime": "17:02",
           "totalSeats": 624,
-          "remainingSeats": 4
+          "remainingSeats": 5
         },
         {
           "scheduleId": "2026082300133",
@@ -3128,7 +3416,31 @@
           "startTime": "14:30",
           "endTime": "17:32",
           "totalSeats": 289,
-          "remainingSeats": 66
+          "remainingSeats": 50
+        },
+        {
+          "scheduleId": "2026082300133",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260823",
+          "startTime": "14:40",
+          "endTime": "17:15",
+          "totalSeats": 115,
+          "remainingSeats": 79
+        },
+        {
+          "scheduleId": "2026082300134",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260823",
+          "startTime": "15:25",
+          "endTime": "18:00",
+          "totalSeats": 200,
+          "remainingSeats": 56
         },
         {
           "scheduleId": "2026082300134",
@@ -3140,7 +3452,7 @@
           "startTime": "15:30",
           "endTime": "17:08",
           "totalSeats": 204,
-          "remainingSeats": 89
+          "remainingSeats": 84
         },
         {
           "scheduleId": "2026082300135",
@@ -3192,6 +3504,18 @@
         },
         {
           "scheduleId": "2026082300134",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260823",
+          "startTime": "17:45",
+          "endTime": "20:20",
+          "totalSeats": 115,
+          "remainingSeats": 81
+        },
+        {
+          "scheduleId": "2026082300134",
           "movieCode": "30001323",
           "movieName": "오디세이",
           "theaterCode": "0013",
@@ -3200,7 +3524,7 @@
           "startTime": "18:00",
           "endTime": "21:02",
           "totalSeats": 289,
-          "remainingSeats": 138
+          "remainingSeats": 104
         },
         {
           "scheduleId": "2026082300136",
@@ -3212,7 +3536,19 @@
           "startTime": "18:05",
           "endTime": "20:10",
           "totalSeats": 134,
-          "remainingSeats": 104
+          "remainingSeats": 102
+        },
+        {
+          "scheduleId": "2026082300135",
+          "movieCode": "30001407",
+          "movieName": "2026 KBO 리그 - LG 트윈스 vs 한화 이글스",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260823",
+          "startTime": "19:00",
+          "endTime": "23:30",
+          "totalSeats": 200,
+          "remainingSeats": 22
         },
         {
           "scheduleId": "2026082300137",
@@ -3224,7 +3560,19 @@
           "startTime": "20:30",
           "endTime": "22:15",
           "totalSeats": 134,
-          "remainingSeats": 46
+          "remainingSeats": 41
+        },
+        {
+          "scheduleId": "2026082300135",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260823",
+          "startTime": "20:45",
+          "endTime": "23:20",
+          "totalSeats": 115,
+          "remainingSeats": 95
         },
         {
           "scheduleId": "2026082300135",
@@ -3248,7 +3596,7 @@
           "startTime": "21:30",
           "endTime": "24:32",
           "totalSeats": 289,
-          "remainingSeats": 274
+          "remainingSeats": 270
         },
         {
           "scheduleId": "2026082300138",
@@ -3260,7 +3608,31 @@
           "startTime": "22:35",
           "endTime": "24:43",
           "totalSeats": 134,
-          "remainingSeats": 134
+          "remainingSeats": 133
+        },
+        {
+          "scheduleId": "2026082300136",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260823",
+          "startTime": "23:45",
+          "endTime": "26:20",
+          "totalSeats": 115,
+          "remainingSeats": 115
+        },
+        {
+          "scheduleId": "2026082300137",
+          "movieCode": "30001192",
+          "movieName": "스파이더맨-브랜드 뉴 데이",
+          "theaterCode": "0013",
+          "theaterName": "CGV 용산아이파크몰",
+          "playDate": "20260823",
+          "startTime": "24:10",
+          "endTime": "26:45",
+          "totalSeats": 200,
+          "remainingSeats": 136
         },
         {
           "scheduleId": "2026082300136",
@@ -3289,7 +3661,7 @@
       ]
     },
     "meta": {
-      "total": 30,
+      "total": 42,
       "pageSize": 50
     }
   }
