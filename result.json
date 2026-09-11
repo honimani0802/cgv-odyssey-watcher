@@ -7,7 +7,7 @@
     "20260816 조회 실패: 503 Server Error: Service Unavailable for url: https://mcp.aka.page/api/cgv/timetable?playDate=20260816&keyword=%EC%9A%A9%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0",
     "20260817 조회 실패: 503 Server Error: Service Unavailable for url: https://mcp.aka.page/api/cgv/timetable?playDate=20260817&keyword=%EC%9A%A9%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0",
     "20260822 조회 실패: 503 Server Error: Service Unavailable for url: https://mcp.aka.page/api/cgv/timetable?playDate=20260822&keyword=%EC%9A%A9%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0",
-    "20260823 조회 실패: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    "20260823 조회 실패: 503 Server Error: Service Unavailable for url: https://mcp.aka.page/api/cgv/timetable?playDate=20260823&keyword=%EC%9A%A9%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0"
   ],
   "dates": [
     "20260814",
