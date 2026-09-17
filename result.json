@@ -57,6 +57,28 @@
       "scheduleId": "2026081500133"
     },
     {
+      "date": "20260816",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "07:30",
+      "end": "10:32",
+      "remaining": 1,
+      "total": 624,
+      "scheduleId": "2026081600131"
+    },
+    {
+      "date": "20260816",
+      "movie": "오디세이",
+      "theater": "CGV 용산아이파크몰",
+      "screen": "IMAX",
+      "start": "11:00",
+      "end": "14:02",
+      "remaining": 7,
+      "total": 624,
+      "scheduleId": "2026081600132"
+    },
+    {
       "date": "20260817",
       "movie": "오디세이",
       "theater": "CGV 용산아이파크몰",
@@ -156,9 +178,7 @@
       "scheduleId": "2026082300133"
     }
   ],
-  "errors": [
-    "20260816 조회 실패: 503 Server Error: Service Unavailable for url: https://mcp.aka.page/api/cgv/timetable?playDate=20260816&keyword=%EC%9A%A9%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0"
-  ],
+  "errors": [],
   "dates": [
     "20260814",
     "20260815",
